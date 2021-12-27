@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/astelrastogi/count.svg) -->
+![Visitor Count](https://profile-counter.glitch.me/astelrastogi/count.svg)
 
   
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&count_private=true&show_icons=true&theme=default" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&count_private=true&show_icons=true&theme=default" />
