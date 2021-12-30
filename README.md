@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/astelrastogi/count.svg)
 
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&count_private=true&show_icons=true&theme=default" />
+<img align="left" alt="Aastha Rastogi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
