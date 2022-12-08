@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/astelrastogi/count.svg)
 
   
-<img align="left" alt="Aastha Rastogi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
+<!-- <img align="left" alt="Aastha Rastogi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=astelrastogi&langs_count=5&theme=dracula)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=astelrastogi&langs_count=5&theme=dracula)]() -->
+
+<!--  https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr -->
