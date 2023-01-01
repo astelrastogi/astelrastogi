@@ -23,10 +23,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&show_icons=true&locale=en" alt="astelrastogi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astelrastogi&" alt="astelrastogi" /></p>
-  
-<!-- <img align="left" alt="Aastha Rastogi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=dracula" />
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=astelrastogi&langs_count=5&theme=dracula)]() -->
-
-<!--  https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr -->
