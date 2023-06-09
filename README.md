@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/astelrastogi/count.svg)
 
-
+<!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astelrastogi&show_icons=true&locale=en" alt="astelrastogi" /></p>
-
+ -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astelrastogi&" alt="astelrastogi" /></p>
