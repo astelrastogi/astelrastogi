@@ -17,11 +17,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/astelrastogi/count.svg)
 
 ## 🔧 Technical Skills
-- **Languages**: C, C++, Python, C#, Java, JavaScript
-- **Databases**: MySQL, MongoDB
+- **Languages**: C, C++, Python, C#, Java, Typescript, JavaScript, Assembly
+- **Databases**: MySQL, MongoDB, PostgreSQL
 - **Frameworks**: React, Flask, Express
-- **Libraries**: Tensorflow, Numpy, Pandas, Matplotlib
-- **Tools**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Postman, Visual Studio 
+- **Libraries**: Tensorflow, Numpy, Pandas, Matplotlib, PyTorch, Scikit-learn
+- **Tools**: Azure, AWS, Docker, Git, CI/CD, Linux/Unix, Postman, Visual Studio, Wireshark
 
 
 
